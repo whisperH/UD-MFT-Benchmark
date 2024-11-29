@@ -58,6 +58,6 @@ We align our dataset annotations with MOT, so each line in  gt.txt contains:
 
 ## Acknowledgement  
  
-The evaluation metrics and code are from [MOT Challenge](https://motchallenge.net/) and [TrackEval](https://github.com/JonathonLuiten/TrackEval).
+The evaluation metrics and code are from [MOT Challenge](https://motchallenge.net/), [TrackEval](https://github.com/JonathonLuiten/TrackEval) and [mmtracking](https://github.com/open-mmlab/mmtracking).
 Thanks for their wonderful and pioneering works !
   
