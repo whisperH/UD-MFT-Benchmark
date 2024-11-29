@@ -2,7 +2,7 @@
 
 Uniform and Deformable Multi-fish Tracking (UD-MFT) is a benchmark for multi-fish real-time tracking in the farming.
 
-UD-MFT provides box and identity annotations. It contains training(annotations public) and testing(annotations unpublic). 
+UD-MFT provides box and identity annotations. It contains training(annotations public) and testing(annotations public). 
 
 <div align="center"><img src="https://ars.els-cdn.com/content/image/1-s2.0-S095741742402520X-gr2.jpg" ></div>
 </br>
