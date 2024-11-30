@@ -11,7 +11,7 @@ UD-MFT provides box and identity annotations. It contains training(annotations p
 [Uniformity and deformation: A benchmark for multi-fish real-time tracking in the farming](https://www.sciencedirect.com/science/article/pii/S095741742402520X)
 
 ## Dataset
-Download the dataset from [Baidu Drive](https://pan.baidu.com/s/1ZReJYWJNdJjGcyBiPUb16g?pwd=1234) (code:1234).
+
 
 Organize as follows:
 ~~~
