@@ -11,7 +11,8 @@ UD-MFT provides box and identity annotations. It contains training(annotations p
 [Uniformity and deformation: A benchmark for multi-fish real-time tracking in the farming](https://www.sciencedirect.com/science/article/pii/S095741742402520X)
 
 ## Dataset
-
+https://pan.baidu.com/s/17U_LntcfWScKU9sQWBgouQ?pwd=1234 
+code:1234
 
 Organize as follows:
 ~~~
@@ -22,8 +23,7 @@ Organize as follows:
 |   |   |   |-- img1
 |   |   |   |   |-- 000001.PNG
 |   |   |   |   |-- ...
-|   |   |   |-- gt
-|   |   |   |   |-- gt.txt            
+|   |   |   |-- gt.txt            
 |   |   |   |-- seqinfo.ini
 |   |   |-- ...
 |   |-- test
